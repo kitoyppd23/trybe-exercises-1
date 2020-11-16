@@ -1,1 +1,2 @@
-Exercicios que fiz durante o curso da Trybe #VQV
+
+Exercicios que farei no curso da Trybe #VQV
